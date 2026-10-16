@@ -1,9 +1,9 @@
-package org.example.controle_funcionarios;
+package org.example.controle_funcionarios.front_end;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class ControllerLogin {
     @FXML
     private Label welcomeText;
 
